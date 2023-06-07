@@ -1,6 +1,6 @@
 <h1>Hello World 🌱</h1>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/gitg0)
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/gitg0) -->
 
 <h3>Some Tools/Frameworks I use</h3>
 <p>
